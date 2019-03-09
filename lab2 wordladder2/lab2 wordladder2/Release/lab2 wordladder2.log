@@ -1,0 +1,9 @@
+﻿  lab2 wordladder2.cpp
+c:\users\97023\source\repos\lab2 wordladder2\lab2 wordladder2\lab2 wordladder2.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\97023\source\repos\lab2 wordladder2\lab2 wordladder2\lab2 wordladder2.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  0 of 495 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  lab2 wordladder2.vcxproj -> C:\Users\97023\source\repos\lab2 wordladder2\Release\lab2 wordladder2.exe

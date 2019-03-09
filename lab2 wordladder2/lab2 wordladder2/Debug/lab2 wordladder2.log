@@ -1,0 +1,5 @@
+﻿  pch.cpp
+  lab2 wordladder2.cpp
+c:\users\97023\source\repos\lab2 wordladder2\lab2 wordladder2\lab2 wordladder2.cpp(35): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\97023\source\repos\lab2 wordladder2\lab2 wordladder2\lab2 wordladder2.cpp(171): warning C4018: “<”: 有符号/无符号不匹配
+  lab2 wordladder2.vcxproj -> C:\Users\97023\source\repos\lab2 wordladder2\Debug\lab2 wordladder2.exe

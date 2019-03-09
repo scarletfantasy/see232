@@ -1,0 +1,4 @@
+﻿  lab2 randomwriter.cpp
+c:\users\97023\source\repos\lab2 randomwriter\lab2 randomwriter\lab2 randomwriter.cpp(55): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\97023\source\repos\lab2 randomwriter\lab2 randomwriter\lab2 randomwriter.cpp(137): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  lab2 randomwriter.vcxproj -> C:\Users\97023\source\repos\lab2 randomwriter\Debug\lab2 randomwriter.exe
